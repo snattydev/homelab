@@ -1,2 +1,4 @@
-# homelab
-snatty's personal homelab journal
+# snatty's homelab
+## this is my personal homelab journal
+
+
