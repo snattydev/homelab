@@ -57,7 +57,7 @@ I ended up discovering Termux and
 
 Here’s my roadmap of what I want to explore next:
 
-- [ ~ ] **Proxmox Server** – Virtualization and container management  
+- [x] **Proxmox Server** – Virtualization and container management  
 - [ ] **NAS** – Network storage using old hardware
 - [ ] **Pi-Hole** – Network-wide DNS ad-blocking  
 - [ ] **Media** – Streaming alternatives (Stremio - Jellyfin)
@@ -78,4 +78,4 @@ I want to thank all the content creators that motivated me to follow this path! 
 [Ardens](https://www.youtube.com/@Ardens.)
 [Hector Pulido](https://www.youtube.com/@Hector.Pulido)
 
-And of course, a huge thanks to the community (r/homelab)[https://www.reddit.com/r/homelab/] , even though i dont usually post, they are a gold mine.
+And of course, a huge thanks to the community [r/homelab](https://www.reddit.com/r/homelab/) , even though i dont usually post, they are a gold mine.
